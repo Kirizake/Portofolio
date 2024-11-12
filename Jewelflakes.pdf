@@ -1,1 +1,84 @@
-Delete
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jewelflakes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        .logo {
+            width: 200px; /* Sesuaikan dengan ukuran logo */
+        }
+        ul {
+            margin: 10px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+<div class="section">
+    <h1>About Us</h1>
+    <p>Jewelflakes adalah brand perhiasan yang berdiri sejak tahun 20xx, tepatnya di Pancur Batu. Kami menyediakan berbagai variasi perhiasan seperti kalung, cincin, gelang, bros dan anting-anting. Dengan inovasi desain dan kualitas bahan serta produk yang terpercaya, kami berkomitmen untuk memberikan pelayanan terbaik dan mengutamakan kepuasan konsumen.</p>
+</div>
+
+<div class="section">
+    <h2>Inspirasi Nama</h2>
+    <p>Nama Jewelflakes terdiri dari dua kata, yaitu "Jewel" yang berarti permata dan "Flakes" yang berarti serpihan. Pengambilan nama brand ini terinspirasi dari penyatuan dua elemen, yaitu permata sebagai simbol utama perhiasan, dan lambang "snowflake" sebagai unsur keindahan.</p>
+</div>
+
+<div class="section">
+    <h2>Logo Design</h2>
+    <p>Pada desain logo, kami menggabungkan elemen serpihan yang memiliki keterkaitan dengan berlian. Warna gradasi biru yang dipakai pada logo menggambarkan kesamaan antara warna berlian dan serpihan es menyerupai kristal, yang sama-sama identik dengan kebiru-biruan. Keduanya melambangkan keindahan dan keeleganan.</p>
+    <img src="path/to/logo.png" alt="Logo Jewelflakes" class="logo">
+</div>
+
+<div class="section">
+    <h2>Alasan Memilih Logo</h2>
+    <p>Alasan saya memilih logo ke 3 sebagai final logo karena kesan elegan dan ciri tegas dari tipografi yang ditambahkan memberi makna dan keselarasan lebih kuat dengan logogram yang ada. Ditambah garis putih yang sederhana dan tidak terlalu mencolok memberi kombinasi yang semakin saling melengkapi dengan elemen visual lainnya.</p>
+</div>
+
+<div class="section">
+    <h2>Promotion Media</h2>
+    <h3>Strategi Promosi Media Sosial</h3>
+    <ul>
+        <li>Mengikuti perkembangan zaman, sangat penting di era digital ini bagi setiap brand.</li>
+        <li>Konten mudah dibagikan oleh pengguna dan berpotensi viralitas.</li>
+        <li>Jangkauan target yang lebih luas dan beragam.</li>
+        <li>Efisien dari segi biaya yang dikeluarkan untuk melakukan promosi.</li>
+        <li>Brand dapat mengekspresikan diri dengan cara yang kreatif dan fleksibel.</li>
+        <li>Memungkinkan interaksi langsung dengan pelanggan.</li>
+        <li>Membuka peluang kerjasama yang lebih mudah dan efektif.</li>
+        <li>Memperkuat citra brand di mata target audiens.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h3>Strategi Promosi Website</h3>
+    <ul>
+        <li>Merupakan pusat informasi resmi yang lengkap dari setiap brand.</li>
+        <li>Biaya pemeliharaan relatif rendah dibandingkan dengan manfaat jangka panjang yang diperoleh.</li>
+        <li>Memudahkan pelanggan melakukan pembelian langsung secara online.</li>
+        <li>Dapat meningkatkan profesionalisme dan kredibilitas brand di mata konsumen.</li>
+        <li>Menerima feedback dari pelanggan secara langsung.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h3>Strategi Promosi Poster</h3>
+    <ul>
+        <li>Menjangkau target secara luas, bahkan untuk
